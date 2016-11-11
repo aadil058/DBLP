@@ -1,4 +1,0 @@
-import java.swing.*;
-public class DBLPFrame extends JFrame{
-
-}
